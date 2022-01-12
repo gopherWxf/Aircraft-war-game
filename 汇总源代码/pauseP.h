@@ -1,0 +1,5 @@
+#pragma once
+#include<Windows.h>
+#include<stdio.h>
+//”Œœ∑‘›Õ£ºÏ≤‚
+void getKeyPause();
